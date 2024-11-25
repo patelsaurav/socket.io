@@ -1,3 +1,5 @@
+
+// You can use third-party tools like Socket.IO Monitor to visually track and monitor your Socket.IO server in a web interface. This tool provides a real-time view of connected clients, emitted events, and messages.
 import express from "express";
 import { Server } from "socket.io";
 import { createServer } from "http";
